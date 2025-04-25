@@ -1,12 +1,41 @@
-## Hi there 👋
+# 🌱 Green Salary
 
-<!--
+**알바생의 권리 보호, 사장의 신뢰 구축을 위한 블록체인 기반 고용 관리 시스템**
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📌 개요
+
+Green Salary는 아르바이트 고용 환경에서 발생하는 **임금 체불**, **계약서 미작성**, **법정 수당 미지급** 등의 문제를 해결하기 위해 개발된 시스템입니다.  
+스마트 컨트랙트와 자동화 기술을 활용하여, 고용부터 급여 지급까지의 전 과정을 **투명하고 신뢰성 있게 관리**합니다.
+
+---
+
+## 🚀 주요 기능
+
+| 기능 | 설명 |
+|------|------|
+| 🧾 스마트 고용 계약 | 고용 조건을 블록체인에 기록하여 위·변조 방지 |
+| ⏱ 출퇴근 인증 | 매장별 QR코드로 간편하게 근무 시간 기록 |
+| 💸 급여 자동 정산 | 에스크로 기반 급여 예치 → 자동 지급 |
+| ❗ 체불 방지 시스템 | 미예치 시 자동 알림, 체불 발생 시 신속 대응 |
+| 📊 신용 점수 | 고용주/근로자의 이력 기반 평판 점수 제공 |
+| 🧠 OCR 계약서 분석 | 계약서 이미지 업로드 → 내용 추출 및 스케줄 생성 |
+
+---
+
+## ⚙️ 기술 스택
+
+| 구분 | 사용 기술 |
+|------|-----------|
+| 프론트엔드 | React, Web3.js, HTML/CSS |
+| 백엔드 | Node.js, Express |
+| 블록체인 | Solidity (스마트 컨트랙트) |
+| 데이터베이스 | PostgreSQL, Clickhouse |
+| 기타 | OCR 분석, 알림 서비스(이메일/SMS) |
+
+---
+
+## 🗂 프로젝트 구조 (예정)
+
+
